@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Context7",
+    "description": "Connects Context7's remote MCP server so the agent can resolve a library and query current documentation. The API key stays in the CONTEXT7_API_KEY credential."
+  }
+}

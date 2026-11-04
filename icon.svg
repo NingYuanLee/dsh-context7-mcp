@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="icon-title icon-desc">
+  <title id="icon-title">Context7</title>
+  <desc id="icon-desc">An open manual with a lookup mark, for the Context7 documentation connection.</desc>
+  <rect width="64" height="64" rx="15" fill="#111827"/>
+  <path d="M14 18h16c2.2 0 4 1.8 4 4v24c0-2.2-1.8-4-4-4H14V18z" fill="#F8FAFC"/>
+  <path d="M50 18H34c-2.2 0-4 1.8-4 4v24c0-2.2 1.8-4 4-4h16V18z" fill="#E2E8F0"/>
+  <path d="M18 26h10M18 31h8M38 26h8M38 31h10" stroke="#0F766E" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="46" cy="46" r="8" fill="#0F766E"/>
+  <path d="M43.2 46.1 45.2 48.1 49.2 43.6" fill="none" stroke="#F8FAFC" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

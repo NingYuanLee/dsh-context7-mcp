@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Context7",
+    "description": "接入 Context7 远程 MCP，让助手解析库名并查询当前版本文档。API Key 只保存在 CONTEXT7_API_KEY 凭据里，不会写入插件配置。"
+  }
+}
