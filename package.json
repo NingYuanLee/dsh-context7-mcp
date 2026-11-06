@@ -3,6 +3,10 @@
   "version": "0.1.2",
   "description": "Connect Context7's remote MCP server to DeepSeek Harness. Resolve a library and query current docs; the API key stays in the CONTEXT7_API_KEY credential.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NingYuanLee/dsh-context7-mcp.git"
+  },
   "author": "NingYuanLee <liyunningyuan@outlook.com>",
   "type": "module",
   "main": "src/index.js",
