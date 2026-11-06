@@ -1,6 +1,6 @@
 {
   "name": "dsh-context7-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Connect Context7's remote MCP server to DeepSeek Harness. Resolve a library and query current docs; the API key stays in the CONTEXT7_API_KEY credential.",
   "license": "MIT",
   "author": "NingYuanLee <liyunningyuan@outlook.com>",
@@ -30,7 +30,7 @@
   },
   "engines": {
     "node": ">=22.19.0",
-    "dsh": ">=0.2.1-rc.2 <0.3.0-0"
+    "dsh": ">=0.2.1-rc.2 <0.3.0-0 || >=0.2.2-0 <0.3.0-0"
   },
   "keywords": [
     "dsh",
